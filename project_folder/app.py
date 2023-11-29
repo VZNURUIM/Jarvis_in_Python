@@ -8,7 +8,7 @@ import time
 app = Flask(__name__)
 
 # Set your OpenAI API key here
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 
 memory = []
 
